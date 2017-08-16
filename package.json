@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-pbkdf2",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-pbkdf2",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "description": "Interface for native PBKDF2 implementations",
+  "repository": "https://github.com/maklesoft/cordova-plugin-pbkdf2.git",
+  "issue": "https://github.com/maklesoft/cordova-plugin-pbkdf2/issues/",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-ios",
+    "cordova-android",
+    "pbkdf2"
+  ],
+  "author": "Martin Kleinschrodt <martin@maklesoft.com>",
+  "license": "Apache 2.0"
+}
