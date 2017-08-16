@@ -30,3 +30,5 @@ pbkdf2(
     (err) => console.error(err), // Error callback
 );
 ```
+
+The function also returns a promise if the `Promise` constructor is found. Otherwise it returns `undefined`.
